@@ -1,4 +1,4 @@
-function main (context, args){
+function (context, args){
     var target = args.t;
     var attempt = args.a;
     var colors = ["purple","blue","cyan","green","lime","yellow","orange","red"];

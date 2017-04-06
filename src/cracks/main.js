@@ -1,4 +1,4 @@
-function main (context, args){
+function (context, args){
     var target = args.t;
     var attempt = {};
     var response = target.call(attempt);

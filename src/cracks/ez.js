@@ -1,4 +1,4 @@
-function main(context, args){
+function (context, args){
     var target = args.t;
     var attempt = args.a ? args.a : {};
     var passwords = ["unlock","open","release"];
